@@ -1,2 +1,2 @@
-# PID-line-follower-arduino
-PID line following algorithm
+//Bhushan Patil PID
+/*connect the ir sensors according to the vaiables below this is a 3 sensor pid. the enable pins should be connect to pwn pins to lower the speed of motors */
